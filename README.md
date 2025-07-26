@@ -13,18 +13,18 @@ MySQL, Firebase, SQL, Database Design
 Git/GitHub, GitHub Actions (CI/CD), VS Code, Npm, Postman, Jira, Confluence  
 
 ✨ Core Skills:  
-Full-stack development, agile methodologies, cross-functional collaboration, business-driven design, data analysis, stakeholder communication  
+Full-stack development, agile methodologies, cross-functional collaboration, business-driven design, data analysis, stakeholder communication.  
 
 🏆 Certifications:  
-Certified Scrum Product Owner (Dec 2024)  
-CS50's Introduction to Computer Science (Harvard, Sep 2024)  
-Jira Software Fundamentals (Atlassian, Oct 2023)  
+Certified Scrum Product Owner  
+CS50's Introduction to Computer Science
+Jira Software Fundamentals
 Advanced Product Management  
 Google Project Management  
 
 🌍 Location: Porto, Portugal  
 
-🗣️ Languages: Portuguese (C2), English (C2), Spanish (C1), French (B1)  
+🗣️ Languages: Portuguese (C2), English (C2), Spanish (C1), French (B1).  
 
 <h3 align="left">🛠️ Languages & Tools</h3> 
 <p align="left"> 
@@ -61,11 +61,11 @@ Google Project Management
 </p> 
 
 <h3 align="left">💡 What I Build</h3> 
-Solutions combining business needs and cutting-edge tech  
-Agile-driven, team-based software projects  
-Clean, documented code with real-world value  
-Business-focused apps using modern stacks  
-Always learning and growing through new challenges  
+Solutions combining business needs and cutting-edge tech.<br>  
+Agile-driven, team-based software projects.<br>  
+Clean, documented code with real-world value.<br>  
+Business-focused apps using modern stacks.<br>  
+Always learning and growing through new challenges.<br>  
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscoperez10&show_icons=true&locale=en&layout=compact" alt="franciscoperez10"/>
@@ -78,6 +78,7 @@ Always learning and growing through new challenges
   </a> 
 </p>
 
-Open to collaborations, innovative teams, and projects where software delivers real business impact. Explore my pinned repos for what’s next!
+Open to collaborations, innovative teams, and projects where software delivers real business impact.<br> 
+Explore my pinned repos for what’s next!<br>
 
 Thanks for stopping by!
