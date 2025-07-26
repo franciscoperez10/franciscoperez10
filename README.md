@@ -16,9 +16,9 @@ Git/GitHub, GitHub Actions (CI/CD), VS Code, Npm, Postman, Jira, Confluence
 Full-stack development, agile methodologies, cross-functional collaboration, business-driven design, data analysis, stakeholder communication.  
 
 🏆 Certifications:  
-Certified Scrum Product Owner  
-CS50's Introduction to Computer Science
-Jira Software Fundamentals
+Certified Scrum Product Owner<br>
+CS50's Introduction to Computer Science<br>
+Jira Software Fundamentals<br>
 Advanced Product Management  
 Google Project Management  
 
