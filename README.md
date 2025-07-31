@@ -1,16 +1,9 @@
 <h1 align="center">👋 Hi, I'm Francisco Perez!</h1> 
 <h3 align="center">Aspiring Software Developer | Agile Project Manager</h3> 
 <p align="center">
- ⚡ Transitioning from 4+ years of project & product management to full-stack software development.<br>
+ ⚡ Transitioning from 3+ years of project & product management to full-stack software development.<br>
  🚀 Currently completing a rigorous Software Developer Reskilling Program and building real-world solutions with modern agile teams. 
 </p>
-
-🧰 Tech Stack:  
-C#, Java, Python, JavaScript, HTML5, CSS3, PHP, Kotlin, Swift  
-Django, Laravel, Node.js, REST APIs, OOP, Design Patterns  
-React, Angular, Bootstrap, Responsive Design, Figma  
-MySQL, Firebase, SQL, Database Design  
-Git/GitHub, GitHub Actions (CI/CD), VS Code, Npm, Postman, Jira, Confluence  
 
 ✨ Core Skills:  
 Full-stack development, agile methodologies, cross-functional collaboration, business-driven design, data analysis, stakeholder communication.  
@@ -79,6 +72,5 @@ Always learning and growing through new challenges.<br>
 </p>
 
 Open to collaborations, innovative teams, and projects where software delivers real business impact.<br> 
-Explore my pinned repos for what’s next!<br>
 
 Thanks for stopping by!
