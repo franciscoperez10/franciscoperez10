@@ -41,6 +41,7 @@
 ---
 
 ### 🏆 Certifications & Highlights
+- **Advanced-Certified Scrum Product Owner (A-CSPO®)**
 - **Certified Scrum Product Owner (CSPO®)**
 - **CS50x:** Introduction to Computer Science (*Harvard Online*)
 - **Google Project Management Professional Certificate**
